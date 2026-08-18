@@ -1,0 +1,17 @@
+# 运行时数据（含个人日记，不上传）
+data/
+成品/
+其他/
+
+# 编译产物
+日记.exe
+Python版/dist_new/
+Python版/build_new/
+Python版/*.spec
+__pycache__/
+*.pyc
+
+# 系统临时文件
+~$*
+Thumbs.db
+Desktop.ini
